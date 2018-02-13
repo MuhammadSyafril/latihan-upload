@@ -1,0 +1,13 @@
+h1	{color: #3366ff}
+
+h2	{color: #ff0000}
+
+a	{color: red}
+
+#hav   {margin: 10px 5px; border: 5px dotted skyblue }	
+#hav a {text-decoration: none ;}
+
+.recomended{
+	font-family: verdana ;
+	font-variant: small-caps;
+}
